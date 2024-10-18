@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FacebookApplication</string>
+    <string name="user_name">Unblast</string>
+    <string name="post_time">2 hrs</string>
+    <string name="post_caption">Buckle up, because change is coming to WordPress
+    https://unblast.com/color-schemes</string>
+    <string name="post_link">https://unblast.com/color-schemes</string>
+    <string name="number_of_likes">12</string>
+    <string name="number_of_shares">1 Share</string>
+    <string name="like_button">Like</string>
+    <string name="comment_button">Comment</string>
+    <string name="share_button">Share</string>
+</resources>
